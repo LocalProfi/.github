@@ -1,5 +1,36 @@
 # LocalProfi®
 
+**LocalProfi®** este un ecosistem digital care conectează clienții cu profesioniști locali de încredere.
+
+Platforma noastră este concepută pentru a face procesul de găsire, alegere și colaborare cu specialiști locali mai simplu, mai transparent și mai sigur.
+
+## Pe ce se concentrează LocalProfi
+
+* Conectarea clienților cu profesioniști locali verificați
+* Profiluri profesionale, portofolii și reputație
+* Cereri de lucrări, comunicare și gestionarea proiectelor
+* Instrumente pentru devize, programări și fluxuri de lucru
+* Construirea unui ecosistem de încredere în jurul serviciilor locale
+
+## Viziunea noastră
+
+LocalProfi își propune să devină infrastructura digitală pentru serviciile locale — reunind clienții, profesioniștii, instrumentele și serviciile într-un singur ecosistem.
+
+🌐 [localprofi.ro](https://localprofi.ro)
+
+---
+
+**LocalProfi® este marcă înregistrată.**
+
+**LocalProfi® — Găsește local. Lucrează mai bine.**
+
+
+
+
+
+
+# LocalProfi®
+
 **LocalProfi®** is a digital ecosystem that connects customers with trusted local professionals.
 
 Our platform is designed to make finding, choosing, and working with local specialists simpler, more transparent, and more reliable.
